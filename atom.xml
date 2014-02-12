@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://zjmmlab.github.io/atom.xml" rel="self"/>
   <link href="http://zjmmlab.github.io/"/>
-  <updated>2014-02-12T08:27:07+08:00</updated>
+  <updated>2014-02-13T06:19:55+08:00</updated>
   <id>http://zjmmlab.github.io/</id>
   <author>
     <name><![CDATA[Jian]]></name>
@@ -12,5 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[测试]]></title>
+    <link href="http://zjmmlab.github.io/blog/2014/02/12/new-post/"/>
+    <updated>2014-02-12T13:25:02+08:00</updated>
+    <id>http://zjmmlab.github.io/blog/2014/02/12/new-post</id>
+    <content type="html"><![CDATA[<h1>第一篇</h1>
+
+<p>啥也没有，哈哈！</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>class nothing
+</span><span class='line'>{
+</span><span class='line'>}
+</span></code></pre></td></tr></table></div></figure>
+
+
+<h5>修改试试</h5>
+]]></content>
+  </entry>
   
 </feed>
