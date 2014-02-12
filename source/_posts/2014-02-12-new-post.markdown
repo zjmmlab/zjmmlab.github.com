@@ -1,0 +1,19 @@
+---
+layout: post
+title: "测试"
+date: 2014-02-12 13:25:02 +0800
+comments: true
+categories: 
+---
+
+# 第一篇 
+
+
+啥也没有，哈哈！
+
+```
+class nothing
+{
+}
+
+```
