@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://zjmmlab.github.io/atom.xml" rel="self"/>
   <link href="http://zjmmlab.github.io/"/>
-  <updated>2014-02-13T15:08:03+08:00</updated>
+  <updated>2014-02-13T15:14:44+08:00</updated>
   <id>http://zjmmlab.github.io/</id>
   <author>
     <name><![CDATA[Jian]]></name>
@@ -14,10 +14,13 @@
 
   
   <entry>
+    
     <title type="html"><![CDATA[测试]]></title>
     <link href="http://zjmmlab.github.io/blog/2014/02/12/new-post/"/>
+    
     <updated>2014-02-12T13:25:02+08:00</updated>
     <id>http://zjmmlab.github.io/blog/2014/02/12/new-post</id>
+    
     <content type="html"><![CDATA[<h1>第一篇</h1>
 
 <p>啥也没有，哈哈！</p>
@@ -33,6 +36,7 @@
 
 <h5>修改试试</h5>
 ]]></content>
+    
   </entry>
   
 </feed>
